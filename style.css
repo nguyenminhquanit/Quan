@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    background-image:url(https://i.pinimg.com/originals/26/71/7d/26717dab86ce7ba6cde4b09ff8da58a8.jpg) ;
+    background-size: cover;
+}
+.phimhay {
+    font-size:3rem;
+    color: rgb(193, 47, 132);
+text-align: center;
+font-family: "Ubuntu", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+  
+.nav-item {
+    font-size:xx-large;
+}
+.nav-item > a {
+    font-size:x-large;
+    margin: 5px 15px;
+}
+
+h1 > .trangchitiet.html {
+    color: aqua;
+    text-align: center 
+}
+.carousel-item {
+    height: 700px;
+}
+.container-right  {
+    justify-content: end;
+    padding: 7px 15px;
+}
+.container-right > a {
+    margin: 5px 10px;
+}
+.carousel-inner {
+    height: 700px;
+}
+.phim-row {
+    justify-content: flex-start !important;
+}
+.trailer{
+    text-align: center;
+    padding: 60px 0;
+}
+.trailer > h1 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color :cadetblue;
+    
+}
+footer{
+    background-image:url(https://th.bing.com/th/id/OIP.qtkUb-p8GFcar3oUoDsYcQHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain);
+}
+footer a {
+    text-decoration: none;
+}
+.row{
+display: flex;
+
+width: 100%;
+}
+ul {
+    list-style: none;
+}
+.phimhay3{
+    color:azure;
+    text-align: center;
+}
+.col-2 >p {
+color: azure;
+}
+
+    
+
+    
+
+ 
